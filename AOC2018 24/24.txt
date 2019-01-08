@@ -1,0 +1,22 @@
+10
+6638 2292 1 weak 1 radiation 3 cold 18
+3906 12319 1 immune 3 bludgeoning cold fire 24 cold 14
+2114 7254 1 immune 2 fire radiation 25 radiation 12
+3157 1184 1 weak 1 bludgeoning 3 cold 9
+502 10367 1 weak 1 bludgeoning 181 fire 13
+1017 10287 0 88 cold 1
+20 1333 2 immune 2 radiation slashing weak 1 bludgeoning 508 fire 3
+6263 6146 0 9 cold 2
+5294 7781 2 weak 1 slashing immune 1 fire 12 slashing 5
+807 4206 1 weak 2 slashing bludgeoning 44 fire 7
+10
+1756 36633 1 immune 1 bludgeoning 38 bludgeoning 17
+1087 39027 0 64 slashing 10
+2744 49920 1 weak 1 slashing 30 fire 4
+3849 21334 1 weak 1 bludgeoning 10 cold 6
+631 37995 1 weak 1 radiation 85 fire 11
+770 45051 1 weak 2 radiation slashing 114 radiation 20
+1742 41529 1 immune 2 cold fire 46 bludgeoning 19
+139 31968 1 weak 1 slashing 458 cold 16
+5191 28059 0 8 radiation 8
+5797 33966 0 11 cold 15
